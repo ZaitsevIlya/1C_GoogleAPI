@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
+	<ConfigVersions>
+		<Metadata name="CommonModule.GoogleAPI" id="d540b7a2-3050-4655-a137-eed4ad558382" configVersion="39a735c0a9d33d44a0af68ac94dfde5100000000"/>
+		<Metadata name="CommonModule.GoogleAPI.Module" id="d540b7a2-3050-4655-a137-eed4ad558382.0" configVersion="e00d6b448d89ef4a8ff6b3c5cd1728ba00000000"/>
+		<Metadata name="Configuration.Configuration" id="813fb875-e9bb-40e0-a531-dc9e827796a7" configVersion="607cbddb9d0eb54ead3eeb13e0443bf400000000"/>
+		<Metadata name="Constant.Token" id="1b488bb7-b226-44b7-87ca-ea55d8208ed7" configVersion="7b0537de37de3449b33419891496ab9600000000"/>
+		<Metadata name="DataProcessor.GoogleAPI_GetCode" id="27daefa2-6ff3-4ce1-8d53-853b643cbc51" configVersion="71bfd4d9dcdcec46aab1cf00e223762000000000">
+			<Metadata name="DataProcessor.GoogleAPI_GetCode.Attribute.ClientSecret" id="1e23f25a-542d-4103-a827-bf4c8b187c07"/>
+			<Metadata name="DataProcessor.GoogleAPI_GetCode.Attribute.ClientID" id="34f34a95-a9d1-4173-a2e0-75cd8084e367"/>
+		</Metadata>
+		<Metadata name="DataProcessor.GoogleAPI_GetCode.Form.Форма" id="718a06e5-3140-4220-8c02-c8dbb54cce5c" configVersion="bb6de5ac1fc3a54b8f0f5be3e2cdeacd00000000"/>
+		<Metadata name="DataProcessor.GoogleAPI_GetCode.Form.Форма.Form" id="718a06e5-3140-4220-8c02-c8dbb54cce5c.0" configVersion="8e4a327a40967b49982399a404133c9900000000"/>
+		<Metadata name="DataProcessor.GoogleAPI_GetCode1" id="56310fb8-513c-42c4-b201-17749cd9b6d8" configVersion="071ff43e4cae624cb9ec794844fff44400000000">
+			<Metadata name="DataProcessor.GoogleAPI_GetCode1.Attribute.ClientID" id="2ba2c24d-0395-48ae-ac41-ed3aa2017c7f"/>
+			<Metadata name="DataProcessor.GoogleAPI_GetCode1.Attribute.ClientSecret" id="4e8b4a23-1c43-452c-bf35-af7c6b44fc9d"/>
+		</Metadata>
+		<Metadata name="DataProcessor.GoogleAPI_GetCode1.Form.Форма" id="f74766ed-5328-41fe-b07c-b5d0ec82a743" configVersion="da9dc6c3fdc5a245bd44adc2c637774f00000000"/>
+		<Metadata name="DataProcessor.GoogleAPI_GetCode1.Form.Форма.Form" id="f74766ed-5328-41fe-b07c-b5d0ec82a743.0" configVersion="c6175d72503e294a881a1869ceb0566800000000"/>
+		<Metadata name="DataProcessor.GoogleAPI_GetCode1.Form.Форма.Help" id="f74766ed-5328-41fe-b07c-b5d0ec82a743.1" configVersion="50705aee6ada124d8567bb5b6e5b32b300000000"/>
+		<Metadata name="DataProcessor.GoogleAPI_GetCode1.Help" id="56310fb8-513c-42c4-b201-17749cd9b6d8.1" configVersion="ab1d18de979e87419bc21739d4e81fa800000000"/>
+		<Metadata name="DataProcessor.GoogleAPI_GetCode1.ManagerModule" id="56310fb8-513c-42c4-b201-17749cd9b6d8.2" configVersion="b2e84be21ced7d4283afc596282e013000000000"/>
+		<Metadata name="DataProcessor.GoogleAPI_GetCode1.ObjectModule" id="56310fb8-513c-42c4-b201-17749cd9b6d8.0" configVersion="0d6853945576764e9a8295a7369eae1d00000000"/>
+		<Metadata name="Language.English" id="6818555b-25fd-4ff5-9d08-d2bd1171435e" configVersion="72e383a337d7d34b83e8ae4b47880a4a00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
